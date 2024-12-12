@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis on IPL Content
 
+![Image Alt Text](https://drive.google.com/uc?export=view&id=15akyo4oWAj6qFgMQHno36us_xls1xrSQ)
+
 ## Project Description
 This project involves sentiment analysis of tweets related to the Indian Premier League (IPL). The primary goal is to classify sentiments expressed in tweets as positive, negative, or neutral using Natural Language Processing (NLP) techniques and machine learning models.
 
